@@ -47,10 +47,10 @@ java -jar .\build\RenovaCalc.jar --screenshot docs\screenshots
 
 ## Публікація на GitHub
 
-Рекомендована назва репозиторію: `renovacalc-java`.
+Репозиторій: `java_project`.
 
 ```powershell
-git remote add origin https://github.com/FunkyPotato7/renovacalc-java.git
+git remote add origin https://github.com/FunkyPotato7/java_project.git
 git branch -M main
 git push -u origin main
 ```

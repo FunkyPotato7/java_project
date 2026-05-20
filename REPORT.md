@@ -68,7 +68,7 @@
 
 ## Посилання на репозиторій
 
-GitHub: https://github.com/FunkyPotato7/renovacalc-java
+GitHub: https://github.com/FunkyPotato7/java_project
 
 ## Висновок
 
